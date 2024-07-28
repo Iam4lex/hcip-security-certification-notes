@@ -1,1 +1,1 @@
-# hcip
+## HCIP certification resources.
